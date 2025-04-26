@@ -1,0 +1,38 @@
+body {
+    background-color: #353333;
+  }
+  h1{
+    text-align: center;
+    color: #f0ebeb;
+    font-size: 50px;
+
+  }
+  
+  .margin {
+   
+    background-color: rgb(235, 232, 229);
+    width: 600px; 
+    height: 400px;
+    padding: 50px;
+    margin: 0 auto;
+  }
+  
+  .border {
+
+    width:350px; 
+    border: 50px solid rgb(7, 7, 7);
+    padding: 50px;
+    margin: 0 auto;
+    background-color: #f1f1ee; 
+  }
+  
+  .content {
+    
+    background-color: #111111; 
+    padding: 50px;
+    width:250px ;
+    height: 80px ;
+    margin: 0 auto;
+    text-align: center;
+ }
+  strong {color:white;}
